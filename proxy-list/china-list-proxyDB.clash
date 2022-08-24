@@ -3,4 +3,8 @@ proxies:
 - {"name":"Server22","type":"socks5","server":"115.56.240.254","port":7302}
 - {"name":"Server23","type":"socks5","server":"111.61.73.175","port":7302}
 - {"name":"Server24","type":"socks5","server":"60.12.57.140","port":7302}
-- {"name":"Server24","type":"socks5","server":"14.149.69.217","port":7302}
+- {"name":"Server25","type":"socks5","server":"14.149.69.217","port":7302}
+- {"name":"Server26","type":"socks5","server":"112.5.2.194","port":7300}
+
+
+
