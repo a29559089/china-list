@@ -7,7 +7,8 @@ IP-CIDR,58.97.144.0/24,no-resolve
 IP-CIDR,103.253.120.65/32,no-resolve
 IP-CIDR,183.182.79.0/24,no-resolve
 IP-CIDR,192.168.136.0/21,no-resolve
-
+IP-CIDR,10.213.0.0/16,no-resolve
+#url
 DOMAIN-SUFFIX,hdems.com
 DOMAIN-SUFFIX,cy.iwerp.net
 DOMAIN-SUFFIX,vir999.com
